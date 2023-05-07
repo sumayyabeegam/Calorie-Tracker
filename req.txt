@@ -1,0 +1,9 @@
+flask
+mysql.connector
+flask_caching
+redis
+pillow 
+numpy
+scikit-image
+keras
+tensorflow
